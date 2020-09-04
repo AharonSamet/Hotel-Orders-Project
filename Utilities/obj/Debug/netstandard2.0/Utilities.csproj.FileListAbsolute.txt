@@ -1,0 +1,18 @@
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\owner\Desktop\HotelProject_SametSegal-Aharon\HotelProject_SametSegal-Aharon\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
+C:\Users\owner\Desktop\Hotel Project\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\owner\Desktop\Hotel Project\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\owner\Desktop\Hotel Project\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\owner\Desktop\Hotel Project\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Hotel Project\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Hotel Project\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\Hotel Project\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\owner\Desktop\Hotel Project\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\owner\Desktop\Hotel Project\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
